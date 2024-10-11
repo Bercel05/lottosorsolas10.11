@@ -1,0 +1,7 @@
+C:\Users\markusb\Gitwork\lottosorsolas 10.11\bin\Debug\lottosorsolas 10.11.exe.config
+C:\Users\markusb\Gitwork\lottosorsolas 10.11\bin\Debug\lottosorsolas 10.11.exe
+C:\Users\markusb\Gitwork\lottosorsolas 10.11\bin\Debug\lottosorsolas 10.11.pdb
+C:\Users\markusb\Gitwork\lottosorsolas 10.11\obj\Debug\lottosorsolas 10.11.csproj.AssemblyReference.cache
+C:\Users\markusb\Gitwork\lottosorsolas 10.11\obj\Debug\lottosorsolas 10.11.csproj.CoreCompileInputs.cache
+C:\Users\markusb\Gitwork\lottosorsolas 10.11\obj\Debug\lottosorsolas 10.11.exe
+C:\Users\markusb\Gitwork\lottosorsolas 10.11\obj\Debug\lottosorsolas 10.11.pdb
